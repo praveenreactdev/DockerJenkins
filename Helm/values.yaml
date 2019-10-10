@@ -1,0 +1,11 @@
+image:
+  repository: 
+  tag: 
+  portname: 
+  contport:
+service:
+  type: 
+  port: 
+  targetport:
+  nodeport:
+  
